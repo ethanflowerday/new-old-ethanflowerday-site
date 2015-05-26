@@ -3730,3 +3730,5 @@
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+body{margin:0;padding:0}
+#youtube-player{width:100%!important;height:100vh;marign:0 ;padding:0}                                                                                                                                                                                                                                                                                                                     
